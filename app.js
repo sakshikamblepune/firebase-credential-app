@@ -25,6 +25,7 @@ const auth = getAuth(app);
 const db = getFirestore(app);
 
 window.login = async function () {
+  alert("button clicked");
   const email = document.getElementById("email").value;
   const password = document.getElementById("password").value;
 
