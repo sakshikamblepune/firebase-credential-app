@@ -12,12 +12,12 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "PASTE_HERE",
-  authDomain: "PASTE_HERE",
-  projectId: "PASTE_HERE",
-  storageBucket: "PASTE_HERE",
-  messagingSenderId: "PASTE_HERE",
-  appId: "PASTE_HERE"
+   apiKey: "AIzaSyD3tCYdk3nRxDBw_kmDcI93LdrLvQ9rTLs",
+  authDomain: "credential-assignment.firebaseapp.com",
+  projectId: "credential-assignment",
+  storageBucket: "credential-assignment.firebasestorage.app",
+  messagingSenderId: "773064671706",
+  appId: "1:773064671706:web:dd20516197c86f6f0f00e3"
 };
 
 const app = initializeApp(firebaseConfig);
