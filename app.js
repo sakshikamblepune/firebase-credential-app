@@ -12,12 +12,13 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 
 const firebaseConfig = {
- apiKey: "AIzaSyD3tCYdk3nRxDBw_kmDcI93LdrLvQ9rTLs",
-  authDomain: "credential-assignment.firebaseapp.com",
-  projectId: "credential-assignment",
-  storageBucket: "credential-assignment.firebasestorage.app",
-  messagingSenderId: "773064671706",
-  appId: "1:773064671706:web:c0ea70e3b533625b0f00e3"
+  apiKey: "AIzaSyD9OCCV2F398rynYYNDr3zzbthWgsXEAik",
+  authDomain: "credential2-1f928.firebaseapp.com",
+  projectId: "credential2-1f928",
+  storageBucket: "credential2-1f928.firebasestorage.app",
+  messagingSenderId: "587857995583",
+  appId: "1:587857995583:web:2bffc241f3638e57b0958a",
+  measurementId: "G-DJYZ97NPGC"
 };
 
 const app = initializeApp(firebaseConfig);
